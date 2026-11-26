@@ -1,2 +1,2 @@
 this is a dummy file.
-this line is part of assignment2
+this line is part of assignment2.
